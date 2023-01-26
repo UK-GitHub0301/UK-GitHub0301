@@ -5,6 +5,14 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=red"><br><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 
+## Participated Project
+
+1. Shopping Mall API Project
+
+2. Transaction Between users API Project
+
+3. Korean Language Education API for Foreigners
+
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UK-GitHub0301)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
